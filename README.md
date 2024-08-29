@@ -1,4 +1,4 @@
-# Actividad 6: Documentación de Código en Python con Sphinx
+# Actividad 5: Documentación de Código en Python con Sphinx
 
 ## Descripción de la Actividad
 
